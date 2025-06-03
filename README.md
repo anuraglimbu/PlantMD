@@ -15,5 +15,6 @@ PlantMD: A Plant Disease Prediction System
 </p>
 
 ## Repositories
-Web API Repo: [PlantMD-WebApi](https://github.com/anuraglimbu/PlantMD-WebApi) <br>
-Flutter Client Repo: Opensourcing Soon.....
+**API Documentation:** [Swagger](https://api.plantmd.anuraglimbu.com.np/docs) <br>
+**Web API Repo:** [PlantMD-WebApi](https://github.com/anuraglimbu/PlantMD-WebApi) <br>
+**Flutter Client Repo:** Opensourcing Soon.....
